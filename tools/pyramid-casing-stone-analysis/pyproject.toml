@@ -1,0 +1,21 @@
+[tool.poetry]
+package-mode = false
+description = "Analyzes casing stone PSD files and generates an SVG viewer HTML."
+authors = [
+    "Thomas Grabe <thomas@grabe.se>",
+    "Johannes Wüller <johanneswueller@gmail.com>",
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opencv-python-headless = "*"
+numpy = "*"
+psd-tools = "*"
+Pillow = "*"
+svgwrite = "*"
+scipy = "*"
+beautifulsoup4 = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
