@@ -14,4 +14,4 @@ This is the core repository of [OpenEgyptology.org](https://openegyptology.org),
 
 Source code in this repository is licensed under the [GNU General Public License v3.0 (GPL-3.0)](./licenses/GPL-3.0-only.txt), unless noted otherwise.
 
-Data in this repository is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](./licenses/CC-BY-NC-SA-4.0.txt).
+Data in this repository is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](./licenses/CC-BY-NC-SA-4.0.txt), unless noted otherwise.
